@@ -1,0 +1,8 @@
+{
+	"title": "Videos Allowed",
+	"description": "This template is for if your mods have MP4/WebM Support.",
+	"author": "You!",
+	"api_version": "1.0.0",
+	"mod_version": "1.0.0",
+	"license": "Apache-2.0"
+}
