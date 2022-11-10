@@ -1,0 +1,14 @@
+{
+	"title":"Advanced Template",
+	"description":"A bit more complex template mod.",
+	"homepage": "https://github.com/Joalor64GH/ModCore-Examples/tree/main/Advanced%20Template",
+	"contributors": [
+		{
+			"name": "You!",
+			"role": "Developer"
+		}
+	],
+	"api_version":"1.0.0",
+	"mod_version":"1.0.0",
+	"license":"Apache-2.0"
+}
